@@ -58,6 +58,7 @@ sudo systemctl apache2 start
 
 7. Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 #### OUTPUT:
+<img width="747" height="775" alt="image" src="https://github.com/user-attachments/assets/b651ff72-e8b6-44af-8886-7b468d9e505d" />
 
 
 8. Starting a command and control Server
